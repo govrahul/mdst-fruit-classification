@@ -1,0 +1,7 @@
+fruits-360_dataset_100x100
+fruits-360_dataset_original-size
+logs
+.ipynb_checkpoints
+.vscode
+env
+.DS_Store
